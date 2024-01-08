@@ -1,9 +1,6 @@
-| test 1 | test 2 | test 3 |
-| --- | --- | --- |
-| cell | cell | cell |
-| cell | cell | cell |
-| cell | cell | cell |
-| cell | cell | cell |
-
-
+| col1 | col2 |
+| --- | --- |
+| cell | cell |
+| cell | cell |
+| cell | cell |bnb
 
