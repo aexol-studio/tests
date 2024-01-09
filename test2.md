@@ -5,6 +5,9 @@ image: 'calendar.webp'
 author: Tomek
 ---
 
+
+1
+
 The [npm Inc. was right](https://graphqleditor.com/blog/javascript-predictions-for-2019-by-npm/), 2019 was a great year for GraphQL.
 Let's take a look at the all good things that happened for GraphQL in 2019.
 
